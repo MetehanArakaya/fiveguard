@@ -67,9 +67,6 @@ fiveguard/
 - **Animasyonlar**: Framer Motion
 - **Font**: Inter, Poppins, Orbitron
 
-## 📝 Lisans
-Bu proje özel lisans altındadır. Ticari kullanım için iletişime geçin.
-
 
 ---
 **Fiveguard** - Yapay zekâ destekli, bulut tabanlı FiveM anti-cheat sistemi.
