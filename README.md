@@ -70,10 +70,6 @@ fiveguard/
 ## 📝 Lisans
 Bu proje özel lisans altındadır. Ticari kullanım için iletişime geçin.
 
-## 🤝 Destek
-- Discord: [Fiveguard Community]
-- Email: support@fiveguard.com
-- Dokümantasyon: [docs.fiveguard.com]
 
 ---
 **Fiveguard** - Yapay zekâ destekli, bulut tabanlı FiveM anti-cheat sistemi.
